@@ -1,0 +1,146 @@
+.navbar{
+    margin: 10px;
+    margin-bottom: 0px;
+}
+
+body{
+    background-color: #097979;
+    font-family: "Quicksand", sans-serif;
+}
+
+#namesheet{
+    padding-top: 200px;
+    margin: 10px;
+    margin-top: 0px;
+    background-color: #f8f9fa;
+    
+}
+
+#pretextsheet{
+    margin-top: -10px;
+    margin-bottom: 15px;
+    margin-left: 80px;
+}
+
+#containtextsheet{
+    padding: 5px;
+    margin-right: 1540px;
+    margin-left: 80px;
+    background-color: #097979;
+}
+
+#textsheet{
+    padding: 5px;
+    margin-top: -10px;
+    margin-bottom: 2px;   
+    background-color: #119494;
+    margin-right: 0px;
+    margin-left: -16px;
+    color: #f2f2f2;
+}
+
+#subtextsheet1{
+    margin: 10px;
+    margin-top: 10px;
+    margin-left: 80px;
+    margin-bottom: 15px;
+    
+}
+
+#containsubtextsheet{
+    padding: 5px;
+    margin-right: 1660px;
+    margin-left: 90px;
+    background-color: #097979;
+}
+
+#subtextsheet2{
+    padding: 5px;
+    margin-top: -10px;
+    margin-bottom: 2px;   
+    background-color: #119494;
+    margin-right: 0px;
+    margin-left: -15px;
+    color: #f2f2f2;
+}
+
+#wave{
+    margin-left: 850px;
+    margin-bottom: 0px;
+    padding: 0px;
+    margin-top: -150px;
+    width: 1200px;
+}
+
+#bodysheet1{
+    background-color: #119494;
+    margin: 10px;
+    margin-top: 20px;
+}
+
+#containbody1{
+    box-sizing: border-box;
+    margin-top: 40px;
+    padding: 5px;
+    margin-right: 1620px;
+    margin-left: 90px;
+    background-color: #b4b4b4;
+    
+}
+
+#jobtext{
+    padding: 5px;
+    margin-top: -10px;
+    margin-bottom: 0px;   
+    background-color: #ffffff;
+    margin-right: 0px;
+    margin-left: -16px;
+    color: #000000;
+}
+
+#margin{
+    margin: 5px;
+}
+
+#imgjob1{
+    width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 992px) {
+    .navbar-nav{
+        margin-top: 20px;
+        position: absolute!important;
+        transform: translate(-50%,-50%)!important;
+        left: 50%!important;
+        top: 50%!important;
+    }
+    .nav-item{
+        margin-left: 40px;
+        margin-right: 40px;
+        border-radius: 20%;
+    }
+}
