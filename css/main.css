@@ -24,7 +24,7 @@ body{
 
 #containtextsheet{
     padding: 5px;
-    margin-right: 1540px;
+    margin-right: 1220px;
     margin-left: 80px;
     background-color: #097979;
 }
@@ -36,7 +36,9 @@ body{
     background-color: #119494;
     margin-right: 0px;
     margin-left: -16px;
+    font-family: 'Lilita One', cursive;
     color: #f2f2f2;
+    font-size: 80px;
 }
 
 #subtextsheet1{
@@ -49,7 +51,7 @@ body{
 
 #containsubtextsheet{
     padding: 5px;
-    margin-right: 1660px;
+    margin-right: 1480px;
     margin-left: 90px;
     background-color: #097979;
 }
@@ -61,16 +63,36 @@ body{
     background-color: #119494;
     margin-right: 0px;
     margin-left: -15px;
+    font-family: 'Lilita One', cursive;
     color: #f2f2f2;
+    font-size: 60px;
 }
 
-#wave{
-    margin-left: 850px;
-    margin-bottom: 0px;
-    padding: 0px;
-    margin-top: -150px;
-    width: 1200px;
+
+
+#waves1{
+    width: 355px;
+    margin-left: 1400px;
+    margin-top: -355px;
 }
+
+#waves2{
+    width: 355px;
+    margin-left: 1400px;
+    rotate: 1800px;
+    transform: rotate(180deg);
+    margin-bottom: 100px;
+}
+
+#me{
+    background-color: #119494;
+    margin-left: 1400px;
+    border: solid;
+    border-color: #097979;
+    margin-top: -150px;
+}
+
+
 
 #bodysheet1{
     background-color: #119494;
